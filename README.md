@@ -150,6 +150,42 @@ Configure everything from inside your IDE — no terminal, no config files:
 
 ---
 
+## ⌨️ Commands
+
+| Shortcut | Action |
+|----------|--------|
+| `Ctrl+Shift+R` | Toggle Remote Control ON/OFF |
+
+Command Palette: `Ctrl+Shift+P` → "Remote Control" → Toggle, Settings, Setup CDP, Show QR Code.
+
+---
+
+## 🔧 After IDE Updates
+
+CDP may reset after updates. The extension auto-detects and shows a fix prompt — click **"Setup & Restart"**.
+
+---
+
+## 📦 Installation
+
+### From Open VSX (Recommended)
+
+Search **"Antigravity Remote Control"** in Extensions, or:
+
+👉 **[Install from Open VSX](https://open-vsx.org/extension/hasugoii/antigravity-remote-control)**
+
+### Manual Install
+
+1. Download `.vsix` from [Releases](https://github.com/hasugoii/antigravity-remote-control/releases)
+2. `Ctrl+Shift+P` → **"Install from VSIX..."**
+3. Select the file → Reload
+
+---
+
+**Made by [hasugoii](https://open-vsx.org/namespace/hasugoii)** · **[Agent Auto Approve](https://open-vsx.org/extension/hasugoii/agent-auto-approve)** · Built for **Antigravity IDE**
+
+---
+
 ## 📋 Changelog
 
 ### v1.2.6 — Tunnel Reliability + Custom CSS + Empty Div Fix
@@ -191,39 +227,3 @@ Configure everything from inside your IDE — no terminal, no config files:
 - 🌐 Cloudflare Tunnel (Quick + Named)
 - 🔐 Token + PIN Auth
 - 📊 QR Code Connect
-
----
-
-## ⌨️ Commands
-
-| Shortcut | Action |
-|----------|--------|
-| `Ctrl+Shift+R` | Toggle Remote Control ON/OFF |
-
-Command Palette: `Ctrl+Shift+P` → "Remote Control" → Toggle, Settings, Setup CDP, Show QR Code.
-
----
-
-## 🔧 After IDE Updates
-
-CDP may reset after updates. The extension auto-detects and shows a fix prompt — click **"Setup & Restart"**.
-
----
-
-## 📦 Installation
-
-### From Open VSX (Recommended)
-
-Search **"Antigravity Remote Control"** in Extensions, or:
-
-👉 **[Install from Open VSX](https://open-vsx.org/extension/hasugoii/antigravity-remote-control)**
-
-### Manual Install
-
-1. Download `.vsix` from [Releases](https://github.com/hasugoii/antigravity-remote-control/releases)
-2. `Ctrl+Shift+P` → **"Install from VSIX..."**
-3. Select the file → Reload
-
----
-
-**Made by [hasugoii](https://open-vsx.org/namespace/hasugoii)** · **[Agent Auto Approve](https://open-vsx.org/extension/hasugoii/agent-auto-approve)** · Built for **Antigravity IDE**

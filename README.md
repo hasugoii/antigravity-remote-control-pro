@@ -1,5 +1,7 @@
 # 🎮 Antigravity Remote Control
 
+> 🌐 **English** | [日本語](README_JA.md) | [Tiếng Việt](README_VI.md) | [中文](README_ZH.md)
+
 > **Your phone. Your IDE. Zero friction.**
 
 You built something amazing with AI agents — but you're **chained to your desk** watching it work. What if you could walk away, grab a coffee, lie on the couch — and still **accept changes, send prompts, attach screenshots, and run workflows** from your phone?
